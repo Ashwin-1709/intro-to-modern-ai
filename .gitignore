@@ -1,0 +1,4 @@
+.venv
+homeworks/__pycache__/*
+homeworks/.env
+homeworks/*.py
