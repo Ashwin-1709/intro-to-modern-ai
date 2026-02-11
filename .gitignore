@@ -2,3 +2,4 @@
 homeworks/__pycache__/*
 homeworks/.env
 homeworks/*.py
+homeworks/MNIST
