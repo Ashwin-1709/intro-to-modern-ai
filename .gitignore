@@ -4,3 +4,6 @@ homeworks/.env
 homeworks/*.py
 homeworks/MNIST
 .vscode
+params.json
+tokenizer.model
+consolidated*
