@@ -7,3 +7,4 @@ homeworks/MNIST
 params.json
 tokenizer.model
 consolidated*
+homeworks/*.txt
