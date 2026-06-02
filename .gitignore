@@ -8,3 +8,4 @@ params.json
 tokenizer.model
 consolidated*
 homeworks/*.txt
+homeworks/*.bin
